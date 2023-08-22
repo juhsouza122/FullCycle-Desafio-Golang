@@ -4,10 +4,12 @@ Este é o código desenvolvido no primeiro desafio do módulo de Docker do curso
 ## Como usar:
 
 1) Clone este repositorio:
+```sh
 git clone https://github.com/juhsouza122/FullCycle-Desafio-Golang.git
 cd fullCycle-Desafio-Golang
+```
 
-2) Construa a imagem Docker:
+3) Construa a imagem Docker:
 ```sh
 docker build -t juhsouza122/fullcycle
 ```
